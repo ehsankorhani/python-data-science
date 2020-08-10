@@ -1,2 +1,4 @@
-# python-data-science
-Work with Tools and Libraries of Data Science and Data Analysis
+# Python 
+Exploring tools and libraries of Data Science and Data Analysis
+
+* NumPy
